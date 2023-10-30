@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.*;
-
+// This is an example of the strategy pattern for CSC3250
 class Course {
     private String _cnum;
     private int _credits;
